@@ -15,5 +15,4 @@ private Sender sender;
 	public void hello() throws Exception{
 		sender.send();
 	}
-
 }
